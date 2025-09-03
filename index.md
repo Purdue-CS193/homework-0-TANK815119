@@ -1,3 +1,9 @@
+# Reid TANK815119 Jacobsen's First CS193 Homework
+## Things I like About CS193
+- It is a CS course
+- It has my fellow CS peers in it
+- It meets once a week
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
